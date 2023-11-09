@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1390" it="0" lt="1083" ct="927" ts="1699513817959" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5644" sby="294" ng="2" na="2">
+  <httpSample t="1091" it="0" lt="1083" ct="927" ts="1699513817959" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="296" it="0" lt="295" ct="0" ts="1699513819053" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4590" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1090" it="0" lt="719" ct="565" ts="1699513818323" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5659" sby="294" ng="2" na="2">
+  <httpSample t="727" it="0" lt="719" ct="565" ts="1699513818323" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="360" it="0" lt="360" ct="0" ts="1699513819053" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4605" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="883" it="0" lt="574" ct="427" ts="1699513819372" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5659" sby="294" ng="2" na="2">
+  <httpSample t="574" it="0" lt="574" ct="427" ts="1699513819372" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="309" it="0" lt="308" ct="0" ts="1699513819946" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4605" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="899" it="0" lt="597" ct="441" ts="1699513819416" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="597" it="0" lt="597" ct="441" ts="1699513819416" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="302" it="0" lt="301" ct="0" ts="1699513820013" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="912" it="0" lt="601" ct="443" ts="1699513820257" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="601" it="0" lt="601" ct="443" ts="1699513820257" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="312" it="0" lt="312" ct="0" ts="1699513820857" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="944" it="0" lt="589" ct="431" ts="1699513820318" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5648" sby="294" ng="2" na="2">
+  <httpSample t="589" it="0" lt="589" ct="431" ts="1699513820318" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="356" it="0" lt="356" ct="0" ts="1699513820906" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4594" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="877" it="0" lt="572" ct="423" ts="1699513821172" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5635" sby="294" ng="2" na="2">
+  <httpSample t="572" it="0" lt="572" ct="423" ts="1699513821172" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="304" it="0" lt="304" ct="0" ts="1699513821745" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4581" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="905" it="0" lt="588" ct="435" ts="1699513821264" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="588" it="0" lt="588" ct="435" ts="1699513821264" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="317" it="0" lt="317" ct="0" ts="1699513821852" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="909" it="0" lt="610" ct="449" ts="1699513822052" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="610" it="0" lt="610" ct="449" ts="1699513822052" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="298" ct="0" ts="1699513822662" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="876" it="0" lt="580" ct="430" ts="1699513822172" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5657" sby="294" ng="2" na="2">
+  <httpSample t="580" it="0" lt="580" ct="430" ts="1699513822172" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="295" it="0" lt="295" ct="0" ts="1699513822753" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4603" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="825" it="0" lt="550" ct="410" ts="1699513822964" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5643" sby="294" ng="2" na="2">
+  <httpSample t="550" it="0" lt="550" ct="410" ts="1699513822964" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="274" it="0" lt="274" ct="0" ts="1699513823515" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4589" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="884" it="0" lt="589" ct="437" ts="1699513823052" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5663" sby="294" ng="2" na="2">
+  <httpSample t="589" it="0" lt="589" ct="437" ts="1699513823052" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="295" it="0" lt="294" ct="0" ts="1699513823641" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4609" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="819" it="0" lt="544" ct="404" ts="1699513823792" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5637" sby="294" ng="2" na="2">
+  <httpSample t="544" it="0" lt="544" ct="404" ts="1699513823792" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="275" it="0" lt="275" ct="0" ts="1699513824336" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4583" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="886" it="0" lt="604" ct="450" ts="1699513823939" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5633" sby="294" ng="2" na="2">
+  <httpSample t="604" it="0" lt="604" ct="450" ts="1699513823939" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="282" it="0" lt="281" ct="0" ts="1699513824543" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4579" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="926" it="0" lt="621" ct="460" ts="1699513824614" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="621" it="0" lt="621" ct="460" ts="1699513824614" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="304" it="0" lt="304" ct="0" ts="1699513825236" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="898" it="0" lt="602" ct="445" ts="1699513824826" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5643" sby="294" ng="2" na="2">
+  <httpSample t="602" it="0" lt="602" ct="445" ts="1699513824826" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="295" it="0" lt="295" ct="0" ts="1699513825429" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4589" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="845" it="0" lt="564" ct="419" ts="1699513825545" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5663" sby="294" ng="2" na="2">
+  <httpSample t="564" it="0" lt="564" ct="419" ts="1699513825545" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="280" it="0" lt="280" ct="0" ts="1699513826110" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4609" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="898" it="0" lt="601" ct="446" ts="1699513825727" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5661" sby="294" ng="2" na="2">
+  <httpSample t="601" it="0" lt="601" ct="446" ts="1699513825727" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="296" it="0" lt="296" ct="0" ts="1699513826329" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4607" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="864" it="0" lt="571" ct="421" ts="1699513826394" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="571" it="0" lt="571" ct="421" ts="1699513826394" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="293" it="0" lt="293" ct="0" ts="1699513826965" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="904" it="0" lt="603" ct="448" ts="1699513826628" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5651" sby="294" ng="2" na="2">
+  <httpSample t="603" it="0" lt="603" ct="448" ts="1699513826628" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="301" it="0" lt="301" ct="0" ts="1699513827231" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4597" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="904" it="0" lt="605" ct="452" ts="1699513827263" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5652" sby="294" ng="2" na="2">
+  <httpSample t="605" it="0" lt="605" ct="452" ts="1699513827263" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="299" ct="0" ts="1699513827868" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4598" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="850" it="0" lt="563" ct="415" ts="1699513827534" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5646" sby="294" ng="2" na="2">
+  <httpSample t="563" it="0" lt="563" ct="415" ts="1699513827534" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="287" it="0" lt="287" ct="0" ts="1699513828097" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4592" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="896" it="0" lt="596" ct="442" ts="1699513828170" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5638" sby="294" ng="2" na="2">
+  <httpSample t="596" it="0" lt="596" ct="442" ts="1699513828170" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="299" ct="0" ts="1699513828767" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4584" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="889" it="0" lt="575" ct="427" ts="1699513828387" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5635" sby="294" ng="2" na="2">
+  <httpSample t="575" it="0" lt="575" ct="427" ts="1699513828387" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="314" it="0" lt="314" ct="0" ts="1699513828962" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4581" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="843" it="0" lt="553" ct="410" ts="1699513829069" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5656" sby="294" ng="2" na="2">
+  <httpSample t="553" it="0" lt="553" ct="410" ts="1699513829069" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="289" it="0" lt="289" ct="0" ts="1699513829623" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4602" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="884" it="0" lt="575" ct="426" ts="1699513829279" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5653" sby="294" ng="2" na="2">
+  <httpSample t="575" it="0" lt="575" ct="426" ts="1699513829279" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="308" it="0" lt="307" ct="0" ts="1699513829855" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4599" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="900" it="0" lt="591" ct="437" ts="1699513829915" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="591" it="0" lt="591" ct="437" ts="1699513829915" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="309" it="0" lt="309" ct="0" ts="1699513830506" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="960" it="0" lt="590" ct="436" ts="1699513830167" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5648" sby="294" ng="2" na="2">
+  <httpSample t="590" it="0" lt="590" ct="436" ts="1699513830167" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="370" it="0" lt="369" ct="0" ts="1699513830757" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4594" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="908" it="0" lt="593" ct="438" ts="1699513830817" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5637" sby="294" ng="2" na="2">
+  <httpSample t="593" it="0" lt="593" ct="438" ts="1699513830817" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="315" it="0" lt="315" ct="0" ts="1699513831410" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4583" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="886" it="0" lt="566" ct="417" ts="1699513831128" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5644" sby="294" ng="2" na="2">
+  <httpSample t="566" it="0" lt="566" ct="417" ts="1699513831128" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="320" it="0" lt="320" ct="0" ts="1699513831694" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4590" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="958" it="0" lt="604" ct="447" ts="1699513831728" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5638" sby="294" ng="2" na="2">
+  <httpSample t="604" it="0" lt="604" ct="447" ts="1699513831728" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="353" it="0" lt="353" ct="0" ts="1699513832333" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4584" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="891" it="0" lt="569" ct="421" ts="1699513832017" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="569" it="0" lt="569" ct="421" ts="1699513832017" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="322" it="0" lt="322" ct="0" ts="1699513832586" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="905" it="0" lt="569" ct="419" ts="1699513832688" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="569" it="0" lt="569" ct="419" ts="1699513832688" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="336" it="0" lt="335" ct="0" ts="1699513833257" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="872" it="0" lt="573" ct="424" ts="1699513832912" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5637" sby="294" ng="2" na="2">
+  <httpSample t="573" it="0" lt="573" ct="424" ts="1699513832912" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1699513833486" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4583" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="910" it="0" lt="582" ct="432" ts="1699513833595" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5635" sby="294" ng="2" na="2">
+  <httpSample t="582" it="0" lt="582" ct="432" ts="1699513833595" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="327" it="0" lt="327" ct="0" ts="1699513834178" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4581" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="912" it="0" lt="594" ct="437" ts="1699513833787" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5646" sby="294" ng="2" na="2">
+  <httpSample t="594" it="0" lt="594" ct="437" ts="1699513833787" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="318" it="0" lt="317" ct="0" ts="1699513834381" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4592" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="893" it="0" lt="600" ct="444" ts="1699513834508" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5657" sby="294" ng="2" na="2">
+  <httpSample t="600" it="0" lt="600" ct="444" ts="1699513834508" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="293" it="0" lt="293" ct="0" ts="1699513835108" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4603" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="910" it="0" lt="611" ct="454" ts="1699513834701" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5643" sby="294" ng="2" na="2">
+  <httpSample t="611" it="0" lt="611" ct="454" ts="1699513834701" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1699513835313" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4589" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="856" it="0" lt="564" ct="417" ts="1699513835403" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5662" sby="294" ng="2" na="2">
+  <httpSample t="564" it="0" lt="564" ct="417" ts="1699513835403" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="292" it="0" lt="292" ct="0" ts="1699513835967" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4608" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="914" it="0" lt="606" ct="448" ts="1699513835613" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5646" sby="294" ng="2" na="2">
+  <httpSample t="606" it="0" lt="606" ct="448" ts="1699513835613" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="308" it="0" lt="308" ct="0" ts="1699513836219" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4592" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="870" it="0" lt="567" ct="418" ts="1699513836262" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5645" sby="294" ng="2" na="2">
+  <httpSample t="567" it="0" lt="567" ct="418" ts="1699513836262" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="303" it="0" lt="303" ct="0" ts="1699513836829" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4591" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="879" it="0" lt="571" ct="422" ts="1699513836530" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5647" sby="294" ng="2" na="2">
+  <httpSample t="571" it="0" lt="571" ct="422" ts="1699513836530" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="308" it="0" lt="307" ct="0" ts="1699513837101" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4593" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="881" it="0" lt="569" ct="421" ts="1699513837135" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5646" sby="294" ng="2" na="2">
+  <httpSample t="569" it="0" lt="569" ct="421" ts="1699513837135" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="311" it="0" lt="311" ct="0" ts="1699513837705" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4592" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="962" it="0" lt="650" ct="480" ts="1699513837412" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5657" sby="294" ng="2" na="2">
+  <httpSample t="650" it="0" lt="650" ct="480" ts="1699513837412" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="311" it="0" lt="311" ct="0" ts="1699513838063" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4603" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="906" it="0" lt="556" ct="410" ts="1699513838019" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5648" sby="294" ng="2" na="2">
+  <httpSample t="556" it="0" lt="556" ct="410" ts="1699513838019" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="350" it="0" lt="350" ct="0" ts="1699513838575" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4594" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="893" it="0" lt="574" ct="422" ts="1699513838377" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5640" sby="294" ng="2" na="2">
+  <httpSample t="574" it="0" lt="574" ct="422" ts="1699513838377" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="319" it="0" lt="319" ct="0" ts="1699513838951" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4586" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="904" it="0" lt="572" ct="422" ts="1699513838928" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5661" sby="294" ng="2" na="2">
+  <httpSample t="572" it="0" lt="572" ct="422" ts="1699513838928" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="332" it="0" lt="332" ct="0" ts="1699513839500" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4607" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="930" it="0" lt="603" ct="437" ts="1699513839274" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5652" sby="294" ng="2" na="2">
+  <httpSample t="603" it="0" lt="603" ct="437" ts="1699513839274" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="327" it="0" lt="327" ct="0" ts="1699513839877" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4598" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="921" it="0" lt="593" ct="437" ts="1699513839834" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5641" sby="294" ng="2" na="2">
+  <httpSample t="593" it="0" lt="593" ct="437" ts="1699513839834" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="326" it="0" lt="326" ct="0" ts="1699513840429" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4587" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="955" it="0" lt="579" ct="429" ts="1699513840207" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5656" sby="294" ng="2" na="2">
+  <httpSample t="579" it="0" lt="579" ct="429" ts="1699513840207" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="375" it="0" lt="375" ct="0" ts="1699513840787" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4602" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="871" it="0" lt="567" ct="419" ts="1699513840758" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5653" sby="294" ng="2" na="2">
+  <httpSample t="567" it="0" lt="567" ct="419" ts="1699513840758" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="303" it="0" lt="302" ct="0" ts="1699513841326" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4599" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="846" it="0" lt="542" ct="401" ts="1699513841165" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5657" sby="294" ng="2" na="2">
+  <httpSample t="542" it="0" lt="542" ct="401" ts="1699513841165" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="304" it="0" lt="303" ct="0" ts="1699513841707" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4603" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="904" it="0" lt="606" ct="444" ts="1699513841631" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5644" sby="294" ng="2" na="2">
+  <httpSample t="606" it="0" lt="606" ct="444" ts="1699513841631" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="297" it="0" lt="297" ct="0" ts="1699513842238" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4590" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="901" it="0" lt="601" ct="446" ts="1699513842013" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5653" sby="294" ng="2" na="2">
+  <httpSample t="601" it="0" lt="601" ct="446" ts="1699513842013" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="300" it="0" lt="300" ct="0" ts="1699513842614" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4599" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="875" it="0" lt="577" ct="425" ts="1699513842538" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5634" sby="294" ng="2" na="2">
+  <httpSample t="577" it="0" lt="577" ct="425" ts="1699513842538" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1699513843115" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4580" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="881" it="0" lt="580" ct="429" ts="1699513842917" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="580" it="0" lt="580" ct="429" ts="1699513842917" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="301" it="0" lt="301" ct="0" ts="1699513843497" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="933" it="0" lt="629" ct="468" ts="1699513843416" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5659" sby="294" ng="2" na="2">
+  <httpSample t="629" it="0" lt="629" ct="468" ts="1699513843416" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="303" it="0" lt="303" ct="0" ts="1699513844046" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4605" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="896" it="0" lt="596" ct="440" ts="1699513843801" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="596" it="0" lt="596" ct="440" ts="1699513843801" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="299" ct="0" ts="1699513844398" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="899" it="0" lt="567" ct="419" ts="1699513844352" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="567" it="0" lt="567" ct="419" ts="1699513844352" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="332" it="0" lt="332" ct="0" ts="1699513844919" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="889" it="0" lt="594" ct="438" ts="1699513844700" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5649" sby="294" ng="2" na="2">
+  <httpSample t="594" it="0" lt="594" ct="438" ts="1699513844700" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="295" it="0" lt="295" ct="0" ts="1699513845294" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4595" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="880" it="0" lt="592" ct="439" ts="1699513845254" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5648" sby="294" ng="2" na="2">
+  <httpSample t="592" it="0" lt="592" ct="439" ts="1699513845254" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="288" it="0" lt="288" ct="0" ts="1699513845846" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4594" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="885" it="0" lt="584" ct="433" ts="1699513845591" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="584" it="0" lt="584" ct="433" ts="1699513845591" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="300" it="0" lt="300" ct="0" ts="1699513846176" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="902" it="0" lt="571" ct="422" ts="1699513846137" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5661" sby="294" ng="2" na="2">
+  <httpSample t="571" it="0" lt="571" ct="422" ts="1699513846137" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="331" it="0" lt="331" ct="0" ts="1699513846708" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4607" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="838" it="0" lt="555" ct="404" ts="1699513846478" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5636" sby="294" ng="2" na="2">
+  <httpSample t="555" it="0" lt="555" ct="404" ts="1699513846478" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="283" it="0" lt="283" ct="0" ts="1699513847033" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4582" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="904" it="0" lt="604" ct="448" ts="1699513847041" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5644" sby="294" ng="2" na="2">
+  <httpSample t="604" it="0" lt="604" ct="448" ts="1699513847041" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="299" ct="0" ts="1699513847646" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4590" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="921" it="0" lt="614" ct="455" ts="1699513847319" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5640" sby="294" ng="2" na="2">
+  <httpSample t="614" it="0" lt="614" ct="455" ts="1699513847319" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="307" it="0" lt="307" ct="0" ts="1699513847933" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4586" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="861" it="0" lt="564" ct="417" ts="1699513847948" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="564" it="0" lt="564" ct="417" ts="1699513847948" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="297" it="0" lt="297" ct="0" ts="1699513848512" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="901" it="0" lt="586" ct="434" ts="1699513848241" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5648" sby="294" ng="2" na="2">
+  <httpSample t="586" it="0" lt="586" ct="434" ts="1699513848241" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="314" it="0" lt="314" ct="0" ts="1699513848828" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4594" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="924" it="0" lt="610" ct="451" ts="1699513848811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5640" sby="294" ng="2" na="2">
+  <httpSample t="610" it="0" lt="610" ct="451" ts="1699513848811" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="313" it="0" lt="312" ct="0" ts="1699513849422" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4586" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="911" it="0" lt="601" ct="443" ts="1699513849144" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5658" sby="294" ng="2" na="2">
+  <httpSample t="601" it="0" lt="601" ct="443" ts="1699513849144" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="309" it="0" lt="309" ct="0" ts="1699513849746" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4604" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="928" it="0" lt="591" ct="436" ts="1699513849736" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5642" sby="294" ng="2" na="2">
+  <httpSample t="591" it="0" lt="591" ct="436" ts="1699513849736" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="337" it="0" lt="337" ct="0" ts="1699513850327" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4588" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="887" it="0" lt="578" ct="426" ts="1699513850058" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="578" it="0" lt="578" ct="426" ts="1699513850058" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="308" it="0" lt="308" ct="0" ts="1699513850637" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="909" it="0" lt="585" ct="433" ts="1699513850667" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5653" sby="294" ng="2" na="2">
+  <httpSample t="585" it="0" lt="585" ct="433" ts="1699513850667" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="324" it="0" lt="324" ct="0" ts="1699513851252" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4599" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="897" it="0" lt="573" ct="423" ts="1699513850948" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5659" sby="294" ng="2" na="2">
+  <httpSample t="573" it="0" lt="573" ct="423" ts="1699513850948" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="323" it="0" lt="322" ct="0" ts="1699513851522" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4605" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="884" it="0" lt="579" ct="429" ts="1699513851578" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5640" sby="294" ng="2" na="2">
+  <httpSample t="579" it="0" lt="579" ct="429" ts="1699513851578" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="305" it="0" lt="305" ct="0" ts="1699513852157" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4586" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="876" it="0" lt="575" ct="423" ts="1699513851847" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5657" sby="294" ng="2" na="2">
+  <httpSample t="575" it="0" lt="575" ct="423" ts="1699513851847" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="300" it="0" lt="300" ct="0" ts="1699513852423" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4603" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="888" it="0" lt="596" ct="442" ts="1699513852465" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5641" sby="294" ng="2" na="2">
+  <httpSample t="596" it="0" lt="596" ct="442" ts="1699513852465" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="292" it="0" lt="292" ct="0" ts="1699513853061" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4587" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="892" it="0" lt="564" ct="419" ts="1699513852726" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5641" sby="294" ng="2" na="2">
+  <httpSample t="564" it="0" lt="564" ct="419" ts="1699513852726" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="327" it="0" lt="326" ct="0" ts="1699513853291" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4587" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="900" it="0" lt="599" ct="444" ts="1699513853356" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5658" sby="294" ng="2" na="2">
+  <httpSample t="599" it="0" lt="599" ct="444" ts="1699513853356" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="301" it="0" lt="301" ct="0" ts="1699513853955" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4604" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="852" it="0" lt="567" ct="420" ts="1699513853620" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5641" sby="294" ng="2" na="2">
+  <httpSample t="567" it="0" lt="567" ct="420" ts="1699513853620" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="285" it="0" lt="285" ct="0" ts="1699513854187" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4587" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="865" it="0" lt="575" ct="424" ts="1699513854259" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5634" sby="294" ng="2" na="2">
+  <httpSample t="575" it="0" lt="575" ct="424" ts="1699513854259" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="290" it="0" lt="290" ct="0" ts="1699513854834" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4580" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="868" it="0" lt="578" ct="426" ts="1699513854476" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5662" sby="294" ng="2" na="2">
+  <httpSample t="578" it="0" lt="578" ct="426" ts="1699513854476" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="290" it="0" lt="290" ct="0" ts="1699513855054" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4608" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="881" it="0" lt="577" ct="428" ts="1699513855127" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="577" it="0" lt="577" ct="428" ts="1699513855127" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="305" it="0" lt="305" ct="0" ts="1699513855703" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="878" it="0" lt="560" ct="413" ts="1699513855347" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5636" sby="294" ng="2" na="2">
+  <httpSample t="560" it="0" lt="560" ct="413" ts="1699513855347" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="319" it="0" lt="319" ct="0" ts="1699513855906" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4582" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="879" it="0" lt="585" ct="433" ts="1699513856010" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="585" it="0" lt="585" ct="433" ts="1699513856010" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="294" it="0" lt="294" ct="0" ts="1699513856595" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="876" it="0" lt="578" ct="428" ts="1699513856228" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5656" sby="294" ng="2" na="2">
+  <httpSample t="578" it="0" lt="578" ct="428" ts="1699513856228" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="297" it="0" lt="297" ct="0" ts="1699513856807" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4602" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="877" it="0" lt="579" ct="427" ts="1699513856892" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5634" sby="294" ng="2" na="2">
+  <httpSample t="579" it="0" lt="579" ct="427" ts="1699513856892" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1699513857471" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4580" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="884" it="0" lt="576" ct="425" ts="1699513857108" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="576" it="0" lt="576" ct="425" ts="1699513857108" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="307" it="0" lt="307" ct="0" ts="1699513857685" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="903" it="0" lt="590" ct="434" ts="1699513857772" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5651" sby="294" ng="2" na="2">
+  <httpSample t="590" it="0" lt="590" ct="434" ts="1699513857772" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="313" it="0" lt="313" ct="0" ts="1699513858362" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4597" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="928" it="0" lt="619" ct="451" ts="1699513857995" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5662" sby="294" ng="2" na="2">
+  <httpSample t="619" it="0" lt="619" ct="451" ts="1699513857995" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="309" it="0" lt="308" ct="0" ts="1699513858614" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4608" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="857" it="0" lt="562" ct="416" ts="1699513858678" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5644" sby="294" ng="2" na="2">
+  <httpSample t="562" it="0" lt="562" ct="416" ts="1699513858678" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="294" it="0" lt="294" ct="0" ts="1699513859241" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4590" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="913" it="0" lt="604" ct="449" ts="1699513858926" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5633" sby="294" ng="2" na="2">
+  <httpSample t="604" it="0" lt="604" ct="449" ts="1699513858926" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="309" it="0" lt="309" ct="0" ts="1699513859530" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4579" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="816" it="0" lt="536" ct="396" ts="1699513859537" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5640" sby="294" ng="2" na="2">
+  <httpSample t="536" it="0" lt="536" ct="396" ts="1699513859537" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="279" it="0" lt="279" ct="0" ts="1699513860074" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4586" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="869" it="0" lt="577" ct="427" ts="1699513859842" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5658" sby="294" ng="2" na="2">
+  <httpSample t="577" it="0" lt="577" ct="427" ts="1699513859842" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="292" it="0" lt="292" ct="0" ts="1699513860419" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4604" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="880" it="0" lt="577" ct="427" ts="1699513860358" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5662" sby="294" ng="2" na="2">
+  <httpSample t="577" it="0" lt="577" ct="427" ts="1699513860358" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="303" it="0" lt="303" ct="0" ts="1699513860935" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4608" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="853" it="0" lt="555" ct="410" ts="1699513860714" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5638" sby="294" ng="2" na="2">
+  <httpSample t="555" it="0" lt="555" ct="410" ts="1699513860714" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1699513861269" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4584" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="911" it="0" lt="599" ct="443" ts="1699513861241" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5655" sby="294" ng="2" na="2">
+  <httpSample t="599" it="0" lt="599" ct="443" ts="1699513861241" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="311" it="0" lt="311" ct="0" ts="1699513861841" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4601" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="992" it="0" lt="598" ct="430" ts="1699513861570" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5652" sby="294" ng="2" na="2">
+  <httpSample t="598" it="0" lt="598" ct="430" ts="1699513861570" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="394" it="0" lt="394" ct="0" ts="1699513862168" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4598" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1028" it="0" lt="618" ct="445" ts="1699513862155" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5650" sby="294" ng="2" na="2">
+  <httpSample t="618" it="0" lt="618" ct="445" ts="1699513862155" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="410" it="0" lt="410" ct="0" ts="1699513862773" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4596" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="960" it="0" lt="588" ct="428" ts="1699513862564" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5650" sby="294" ng="2" na="2">
+  <httpSample t="588" it="0" lt="588" ct="428" ts="1699513862564" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="372" it="0" lt="372" ct="0" ts="1699513863152" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4596" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1172" it="0" lt="626" ct="416" ts="1699513863185" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5641" sby="294" ng="2" na="2">
+  <httpSample t="626" it="0" lt="626" ct="416" ts="1699513863185" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="546" it="0" lt="546" ct="0" ts="1699513863811" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4587" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1096" it="0" lt="695" ct="427" ts="1699513863527" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5661" sby="294" ng="2" na="2">
+  <httpSample t="695" it="0" lt="695" ct="427" ts="1699513863527" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="400" it="0" lt="400" ct="0" ts="1699513864223" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4607" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="969" it="0" lt="592" ct="436" ts="1699513864360" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5649" sby="294" ng="2" na="2">
+  <httpSample t="592" it="0" lt="592" ct="436" ts="1699513864360" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="377" it="0" lt="377" ct="0" ts="1699513864952" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4595" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="927" it="0" lt="559" ct="408" ts="1699513864626" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5641" sby="294" ng="2" na="2">
+  <httpSample t="559" it="0" lt="559" ct="408" ts="1699513864626" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="367" it="0" lt="367" ct="0" ts="1699513865186" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4587" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="917" it="0" lt="613" ct="446" ts="1699513865332" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5633" sby="294" ng="2" na="2">
+  <httpSample t="613" it="0" lt="613" ct="446" ts="1699513865332" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="304" it="0" lt="304" ct="0" ts="1699513865945" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4579" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="902" it="0" lt="610" ct="451" ts="1699513865556" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5658" sby="294" ng="2" na="2">
+  <httpSample t="610" it="0" lt="610" ct="451" ts="1699513865556" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="292" it="0" lt="292" ct="0" ts="1699513866166" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4604" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="877" it="0" lt="582" ct="432" ts="1699513866251" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5642" sby="294" ng="2" na="2">
+  <httpSample t="582" it="0" lt="582" ct="432" ts="1699513866251" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="295" it="0" lt="294" ct="0" ts="1699513866833" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4588" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="892" it="0" lt="592" ct="438" ts="1699513866460" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="592" it="0" lt="592" ct="438" ts="1699513866460" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="300" it="0" lt="300" ct="0" ts="1699513867052" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="892" it="0" lt="587" ct="436" ts="1699513867130" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5634" sby="294" ng="2" na="2">
+  <httpSample t="587" it="0" lt="587" ct="436" ts="1699513867130" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="304" it="0" lt="304" ct="0" ts="1699513867718" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4580" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="879" it="0" lt="581" ct="429" ts="1699513867354" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5660" sby="294" ng="2" na="2">
+  <httpSample t="581" it="0" lt="581" ct="429" ts="1699513867354" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="297" it="0" lt="297" ct="0" ts="1699513867936" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4606" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="947" it="0" lt="604" ct="446" ts="1699513868025" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5643" sby="294" ng="2" na="2">
+  <httpSample t="604" it="0" lt="604" ct="446" ts="1699513868025" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="343" it="0" lt="343" ct="0" ts="1699513868629" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4589" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="903" it="0" lt="594" ct="439" ts="1699513868235" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5657" sby="294" ng="2" na="2">
+  <httpSample t="594" it="0" lt="594" ct="439" ts="1699513868235" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="308" it="0" lt="308" ct="0" ts="1699513868830" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4603" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="917" it="0" lt="602" ct="445" ts="1699513868975" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5656" sby="294" ng="2" na="2">
+  <httpSample t="602" it="0" lt="602" ct="445" ts="1699513868975" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="315" it="0" lt="315" ct="0" ts="1699513869577" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4602" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="861" it="0" lt="562" ct="414" ts="1699513869141" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5645" sby="294" ng="2" na="2">
+  <httpSample t="562" it="0" lt="562" ct="414" ts="1699513869141" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1699513869704" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4591" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="879" it="0" lt="553" ct="402" ts="1699513869893" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5646" sby="294" ng="2" na="2">
+  <httpSample t="553" it="0" lt="553" ct="402" ts="1699513869893" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="325" it="0" lt="325" ct="0" ts="1699513870447" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4592" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="886" it="0" lt="583" ct="431" ts="1699513870003" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5661" sby="294" ng="2" na="2">
+  <httpSample t="583" it="0" lt="583" ct="431" ts="1699513870003" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="302" it="0" lt="302" ct="0" ts="1699513870587" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4607" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="860" it="0" lt="561" ct="408" ts="1699513870775" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="5639" sby="294" ng="2" na="2">
+  <httpSample t="561" it="0" lt="561" ct="408" ts="1699513870775" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-1" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="299" ct="0" ts="1699513871336" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-1" dt="text" by="4585" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="886" it="0" lt="593" ct="436" ts="1699513870891" s="true" lb="HTTP Request" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="5658" sby="294" ng="2" na="2">
+  <httpSample t="593" it="0" lt="593" ct="436" ts="1699513870891" s="true" lb="HTTP Request-0" rc="302" rm="Found" tn="S02_Crafter_FindCruise 1-2" dt="text" by="1054" sby="135" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="293" it="0" lt="293" ct="0" ts="1699513871484" s="true" lb="HTTP Request-1" rc="200" rm="OK" tn="S02_Crafter_FindCruise 1-2" dt="text" by="4604" sby="159" ng="2" na="2">
+    <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</java.net.URL>
+</httpSample>
+
+</testResults>
